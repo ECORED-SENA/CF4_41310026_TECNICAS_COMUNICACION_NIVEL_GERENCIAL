@@ -59,7 +59,7 @@
   border-radius: 15px
 
 .brounded-left-md
-  @media screen and (max-width: $bp-max-md)
+  @media screen and (max-width: $bp-min-md)
     border-top-left-radius: 15px
     border-bottom-left-radius: 15px
 
@@ -68,15 +68,23 @@
   border-bottom-right-radius: 15px
 
 
+.brounded-md
+  @media screen and (max-width: $bp-min-md)
+    border-radius: 15px !important
+
 .bg-color
   &-p
     background-color: $color-primario
   &-p20
     background-color: #FED8CC
+  &-p10
+    background-color: #FEECE6
   &-s10
     background: linear-gradient(90deg, transparent 15%, #E5F0FC 15%);
     @media screen and (max-width: $bp-max-md)
       background-color: #E5F0FC
+  &-s20
+    background-color: #CAE1F9
   &-ac20
     background-color: #F5EEC2
   &-ac10
@@ -85,9 +93,14 @@
     background: linear-gradient(90deg, transparent 15%, #FAF6E0 15%);
     @media screen and (max-width: $bp-max-md)
       background-color: #FAF6E0
-      
+  &-gray
+    background: linear-gradient(90deg, #F2F5F4 15%, #F2F5F4 15%);
+    background-position: center 150px
+  &-gray-2
+    background: #E8E8E8
+
   &-white
-    background-color: white
+    background-color: white !important
 
 .py-big
   @media screen and (min-width: $bp-min-xxl)
@@ -113,7 +126,41 @@
   &-4
     background-image: url("../assets/curso/bg/bg4.png") !important
 
+  &-5
+    background-image: url("../assets/curso/bg/bg6.png") !important
+    background-position: center 
+    height: 760px
 
+  &-6
+    background-image: url("../assets/curso/bg/bg7b.png") !important
+    background-position: top center
+    background-color: #F2F5F4
+    background-repeat: no-repeat
+
+  &-7
+    background-image: url("../assets/curso/bg/bg8.png") !important
+
+
+.mt-big
+  margin-top: 11rem !important
+  @media screen and (max-width: $bp-max-xl)
+    margin-top: 0rem !important
+  @media screen and (max-width: $bp-max-md)
+    margin-top: 5rem !important
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: 0rem !important
+
+.rounded-pill
+  @media screen and (max-width: $bp-max-sm)
+    border-radius: 2rem !important
+
+.title-cuatro
+  background: #FEECE6
+  color: #000
+  display: inline-block
+  padding: 0.5rem 1.4rem
+  h5
+    margin: 0
 
 
 // Custom List Styles
@@ -200,3 +247,29 @@
   padding-top: 35px
   .tarjeta
     padding-top: 35px !important
+
+
+.subtitle-card
+  background: $color-acento-contenido
+  display: inline-block
+  padding-inline: 1.2rem
+  padding-block: 0.5rem
+  h5
+    margin-bottom: 0
+
+.tabs-a__tab
+  background: $color-acento-contenido
+  color: $color-sistema-texto
+  cursor: pointer
+  transition: background 0.3s
+  &:hover
+    color: #fff !important
+
+.tabs-a__tab__selected
+  color: #fff !important
+  background: $color-acento-botones
+
+.tabs-a__content-item
+  background: #E5F0FC
+  border-radius: 15px
+  height: 100% !important
