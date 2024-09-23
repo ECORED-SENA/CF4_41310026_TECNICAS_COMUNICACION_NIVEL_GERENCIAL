@@ -150,47 +150,47 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Diálogo:',
+      termino: 'Diálogo',
       significado:
         'conversación entre dos o más personas, sea oral o escrita, mediante la que se intercambia información y se comunican pensamientos, sentimientos y deseos.',
     },
     {
-      termino: 'Habilidades sociales:',
+      termino: 'Habilidades sociales',
       significado:
         'comportamientos eficaces que realiza el ser humano para facilitar la relación con los demás.',
     },
     {
-      termino: 'Kinestésico:',
+      termino: 'Kinestésico',
       significado:
         'relativo a la comunicación no verbal, que se manifiesta mediante movimientos o gestos corporales, como la postura, la mirada, los gestos y la expresión facial.',
     },
     {
-      termino: 'Lenguaje:',
+      termino: 'Lenguaje',
       significado:
         'capacidad de la mente para expresar o comunicar experiencias y conocimientos a través de signos, símbolos y sonidos.',
     },
     {
-      termino: 'Mensaje:',
+      termino: 'Mensaje',
       significado:
         'información que el emisor envía al receptor, definida como el conjunto de ideas, pensamientos, sentimientos o acontecimientos expresados.',
     },
     {
-      termino: 'Negociación:',
+      termino: 'Negociación',
       significado:
         'procedimiento de discusión entre partes en conflicto cuyo objetivo es llegar a un acuerdo aceptable.',
     },
     {
-      termino: 'Paralingüístico:',
+      termino: 'Paralingüístico',
       significado:
         'relativo a la comunicación no verbal, que incluye elementos como la entonación, el volumen, el ritmo y gestos semi articulados como bostezos, risas o muletillas.',
     },
     {
-      termino: 'Polémico:',
+      termino: 'Polémico',
       significado:
         'relativo a la estructuración del espacio físico mediante gestos y movimientos, marcando límites personales.',
     },
     {
-      termino: 'Relaciones interpersonales:',
+      termino: 'Relaciones interpersonales',
       significado:
         'son los puentes que se establecen entre personas, es decir, las formas de interacción entre seres humanos.',
     },
