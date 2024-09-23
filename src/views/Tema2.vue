@@ -71,7 +71,7 @@
       | #[strong Ejemplo de formato de carta:]
 
     .bg-full-width.bg-fondo-5.mb-md-5
-      .px-4.px-md-5.pb-5
+      .px-4.px-md-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8.col-xl-7(data-aos="zoom-in")
             img(src="@/assets/curso/tema2/5.png", style="max-width: 100%", alt="")
