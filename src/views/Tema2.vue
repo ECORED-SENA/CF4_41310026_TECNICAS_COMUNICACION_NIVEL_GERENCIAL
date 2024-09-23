@@ -27,7 +27,7 @@
           .col-md.tarjeta.bg-color-p.p-5.brounded-md.mb-4.mb-lg-0
             .row.align-items-end.mb-4
               .col-auto
-                img(src='@/assets/curso/tema2/2.svg', alt='', style='max-width: 81px')
+                img(src='@/assets/curso/tema2/2.svg', alt='', style='max-width: 61px')
               .col
                 .subtitle-card
                   h5 Código
@@ -35,7 +35,7 @@
           .col-md.tarjeta.bg-color-p20.p-5.brounded-md.mb-4.mb-lg-0
             .row.align-items-end.mb-4
               .col-auto
-                img(src='@/assets/curso/tema2/3.svg', alt='', style='max-width: 81px')
+                img(src='@/assets/curso/tema2/3.svg', alt='', style='max-width: 61px')
               .col
                 .subtitle-card
                   h5 Carta
