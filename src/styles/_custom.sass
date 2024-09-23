@@ -32,6 +32,10 @@
   @media screen and ( max-width: $bp-max-lg )
     width: 400px
 
+.banner-principal .tarjeta
+  @media screen and ( max-width: $bp-min-md )
+    background-position: 0% 0% !important
+
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/img1.png") !important
 
@@ -129,7 +133,8 @@
   &-5
     background-image: url("../assets/curso/bg/bg6.png") !important
     background-position: center 
-    height: 760px
+    @media screen and (min-width: $bp-min-lg)
+      //height: 760px
 
   &-6
     background-image: url("../assets/curso/bg/bg7b.png") !important

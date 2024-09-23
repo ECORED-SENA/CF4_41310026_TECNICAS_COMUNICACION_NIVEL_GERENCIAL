@@ -54,7 +54,7 @@
           img(src="@/assets/curso/tema1/3.png", style="max-width: 400px", alt="")
           
         .col-xl(data-aos="fade-left")
-          .p-xl-4.pe-xl-5.p-5
+          .p-xl-4.pe-xl-5.p-4.p-md-5
             img(src="@/assets/curso/tema1/3b.png", style="max-width: 661px", alt="").m-auto.d-xl-none.mb-5
 
             p.mb-4 #[strong En la comunicación escrita: ]
@@ -247,7 +247,7 @@
     .brounded.bg-color-p.px-5.py-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-auto
-          img(src="@/assets/curso/tema1/15.svg", style="max-width: 90px", alt="")
+          img(src="@/assets/curso/tema1/15.svg", style="max-width: 90px", alt="").mb-4.mb-lg-0.m-auto
         .col-lg
           p.mb-0 La RAE nunca ha establecido una norma en sentido contrario. La acentuación gráfica de las mayúsculas no es opcional, sino obligatoria. Las únicas mayúsculas que no se acentúan son las que forman parte de siglas; por ejemplo: IBEX (Índice Bursátil Español) no lleva tilde.
 

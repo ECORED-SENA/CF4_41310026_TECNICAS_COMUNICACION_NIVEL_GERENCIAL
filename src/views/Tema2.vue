@@ -86,7 +86,7 @@
                 img(src="@/assets/curso/tema2/6.png", style="max-width: 400px", alt="")
                 
               .col-xl(data-aos="fade-left")
-                .p-xl-4.pe-xl-5.p-5
+                .p-xl-4.pe-xl-5.p-4.p-md-5
                   img(src="@/assets/curso/tema2/6.png", style="max-width: 400px", alt="").m-auto.d-xl-none.mb-5
 
                   p.mb-4 #[strong Los elementos esenciales de la documentación:]
@@ -114,7 +114,7 @@
 
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-6.col-xl-7(data-aos="fade-right")
-              .bg-color-s20.py-4.px-5
+              .bg-color-s20.py-4.px-4.px-lg-5
                 .row.justify-content-center.align-items-center
                   .col-lg-auto(data-aos="fade-right").d-none.d-lg-block
                     img(src="@/assets/curso/tema2/7.svg", style="max-width: 81px", alt="")
@@ -132,41 +132,41 @@
 
 
           .row.justify-content-center.align-items-stretch.mb-2
-            .col-lg-4.bg-color-ac20.py-4.px-5(data-aos="fade-right")
+            .col-lg-4.bg-color-ac20.py-4.px-4.px-lg-5(data-aos="fade-right")
               .mt-lg-4
                 p.mb-0 #[strong Ejemplo 1.]
                 p.mb-0 #[strong En línea separada] 
-            .col-lg-8.bg-color-white.py-4.px-5(data-aos="fade-right")
+            .col-lg-8.bg-color-white.py-4.px-4.px-lg-5(data-aos="fade-right")
               p.mb-0 Copia:
               p.mb-0 Señor Julio Montoya, Gerente AMS.
               p.mb-0 Señor Carlos Salazar Gómez, Gerente Nacional, Textiles S.A.
               p.mb-0 Doctor Bernardo Murcia Vélez, Jefe de Aseguramiento de la Calidad, COPAV.
 
           .row.justify-content-center.align-items-stretch.mb-2
-            .col-lg-4.bg-color-ac20.py-4.px-5(data-aos="fade-right")
+            .col-lg-4.bg-color-ac20.py-4.px-4.px-lg-5(data-aos="fade-right")
               .mt-lg-4
                 p.mb-0 #[strong Ejemplo 2.]
                 p.mb-0 #[strong Para dependencias] 
-            .col-lg-8.bg-color-white.py-4.px-5(data-aos="fade-right")
+            .col-lg-8.bg-color-white.py-4.px-4.px-lg-5(data-aos="fade-right")
               p.mb-0 Copia:
               p.mb-0 Gerencia.
               p.mb-0 Gestión Humana.
               p.mb-0 Dirección Financiera.
 
           .row.justify-content-center.align-items-stretch.mb-2
-            .col-lg-4.bg-color-ac20.py-4.px-5(data-aos="fade-right")
+            .col-lg-4.bg-color-ac20.py-4.px-4.px-lg-5(data-aos="fade-right")
               .my-lg-4
                 p.mb-0 #[strong Ejemplo 3.]
                 p.mb-0 #[strong Para códigos de las dependencias] 
-            .col-lg-8.bg-color-white.py-4.px-5(data-aos="fade-right")
+            .col-lg-8.bg-color-white.py-4.px-4.px-lg-5(data-aos="fade-right")
               p.mb-0 Copia:  1010, 1030, 100.
 
           .row.justify-content-center.align-items-stretch.mb-5
-            .col-lg-4.bg-color-ac20.py-4.px-5(data-aos="fade-right")
+            .col-lg-4.bg-color-ac20.py-4.px-4.px-lg-5(data-aos="fade-right")
               .my-lg-4
                 p.mb-0 #[strong Ejemplo 4.]
                 p.mb-0 #[strong En línea seguida] 
-            .col-lg-8.bg-color-white.py-4.px-5(data-aos="fade-right")
+            .col-lg-8.bg-color-white.py-4.px-4.px-lg-5(data-aos="fade-right")
               p.mt-2 Copia: Señores Juan Díaz Pérez, Director Técnico; Jairo Ruiz Cano, Director de Talento Humano; César Arenas, Jefe de Producción.
 
           .title-cuatro.rounded-pill(data-aos="fade-up").mb-4
@@ -179,7 +179,7 @@
             .col-lg-auto(data-aos="fade-right")
               img(src="@/assets/curso/tema2/8.png", style="max-width: 294px", alt="").m-auto.mb-4.mb-lg-0
             .col-lg(data-aos="fade-left")
-              .bg-color-gray-2.p-5.h-100
+              .bg-color-gray-2.p-4.p-lg-5.h-100
                 ul.custom-list.mb-0
                   li.mb-2 Tratar un solo tema por comunicación.
                   li.mb-2 Redactar de forma clara, precisa, concreta y concisa.
@@ -217,7 +217,7 @@
             .col-lg-auto(data-aos="fade-right")
               img(src="@/assets/curso/tema2/10.png", style="max-width: 294px", alt="").m-auto.mb-4.mb-lg-0
             .col-lg(data-aos="fade-left")
-              .bg-color-gray-2.p-5.h-100
+              .bg-color-gray-2.p-4.p-lg-5.h-100
                 ul.custom-list.mb-0
                   li.mb-1 Informar sobre un hecho de forma breve.
                   li.mb-1 Expresar necesidades.
@@ -244,7 +244,7 @@
 
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-10
-              .p-5.bg-color-gray-2
+              .p-4.p-lg-5.bg-color-gray-2
                 .row.justify-content-center.align-items-center
                   .col-lg-auto
                     img(src="@/assets/curso/tema2/12.svg", style="max-width: 207px", alt="").m-auto.mb-4.mb-lg-0
