@@ -36,27 +36,31 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'La comunicación escrita',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Características de la comunicación escrita',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Sugerencias de gramática y ortografía',
+            hash: 't_1_2',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Protocolo de comunicación en la organización',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Informes de gerencia',
         desarrolloContenidos: true,
       },
     ],
@@ -107,31 +111,119 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'La comunicación escrita',
+      referencia:
+        'Aprendemos Juntos (2021)."Nuestra escritura nos representa". Estrella Montolío, lingüista y profesora. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=92oS2byPp24',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Características de la comunicación escrita',
+      referencia:
+        'Machado Mateos, A. & Rodríguez Sánchez, O. (2020). <em>Comunicación oral y escrita en la empresa. UF0521:</em> ( ed.). Editorial Tutor Formación.',
+      tipo: 'Leer página 39-50',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/125937',
+    },
+    {
+      tema: 'Sugerencias de gramática y ortografía',
+      referencia:
+        'Moreno Castrillón, F. (2013). <em>Gramática y ortografía al día: guía con las principales novedades de la Real Academia Española:</em> ( ed.). Universidad del Norte.',
+      tipo: 'Libro',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/69894',
+    },
+    {
+      tema: 'Protocolo de comunicación en la organización',
+      referencia:
+        'GCFAprendeLibre. (2022). Cómo escribir un correo laboral | Comunicación empresarial. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=RfW2Mbri-9Y',
+    },
+    {
+      tema: 'Informes de gerencia',
+      referencia:
+        'Utilidades de Gestión. (2021). Elaboración de Informes de Gestión. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=HhqbBAt1qKc',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Diálogo:',
+      significado:
+        'conversación entre dos o más personas, sea oral o escrita, mediante la que se intercambia información y se comunican pensamientos, sentimientos y deseos.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Habilidades sociales:',
+      significado:
+        'comportamientos eficaces que realiza el ser humano para facilitar la relación con los demás.',
+    },
+    {
+      termino: 'Kinestésico:',
+      significado:
+        'relativo a la comunicación no verbal, que se manifiesta mediante movimientos o gestos corporales, como la postura, la mirada, los gestos y la expresión facial.',
+    },
+    {
+      termino: 'Lenguaje:',
+      significado:
+        'capacidad de la mente para expresar o comunicar experiencias y conocimientos a través de signos, símbolos y sonidos.',
+    },
+    {
+      termino: 'Mensaje:',
+      significado:
+        'información que el emisor envía al receptor, definida como el conjunto de ideas, pensamientos, sentimientos o acontecimientos expresados.',
+    },
+    {
+      termino: 'Negociación:',
+      significado:
+        'procedimiento de discusión entre partes en conflicto cuyo objetivo es llegar a un acuerdo aceptable.',
+    },
+    {
+      termino: 'Paralingüístico:',
+      significado:
+        'relativo a la comunicación no verbal, que incluye elementos como la entonación, el volumen, el ritmo y gestos semi articulados como bostezos, risas o muletillas.',
+    },
+    {
+      termino: 'Polémico:',
+      significado:
+        'relativo a la estructuración del espacio físico mediante gestos y movimientos, marcando límites personales.',
+    },
+    {
+      termino: 'Relaciones interpersonales:',
+      significado:
+        'son los puentes que se establecen entre personas, es decir, las formas de interacción entre seres humanos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Bayer, C. (2014). <em>Comunicación eficaz: Una competencia para lograr el éxito organizacional</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cestero, A. M. (2004). La comunicación no verbal. En J. Sánchez Lobato & I. Santos Gargallo (Eds.), <em>Vademécum para la formación de profesores</em> (pp. 593-612). Madrid: SGEL.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cestero, A. M., et al. (1998). <em>Estudios de comunicación no verbal</em>. Madrid: Edinumen.',
+      link: '',
+    },
+    {
+      referencia:
+        'Coll, J., Gelabert, M. J., & Martinell, E. (1990). <em>Diccionario de gestos y sus giros más usuales</em>. Madrid: Edelsa.',
+      link: '',
+    },
+    {
+      referencia:
+        'García-Carpintero, M. (1996). <em>Las palabras, las ideas y las cosas: Una presentación de la filosofía del lenguaje</em>. Barcelona: Editorial Ariel.',
+      link: '',
+    },
+    {
+      referencia:
+        'Tobón, L. (2001). <em>La lingüística del lenguaje: Estudios en torno a los procesos de significar y comunicar</em>. Bogotá: Universidad Pedagógica Nacional.',
       link: '',
     },
   ],
@@ -155,8 +247,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'José Herney Sánchez Pizarro',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Diseño e  Innovación Tecnológica Industrial - Regional Risaralda ',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -165,18 +263,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julián Ramírez Benítez',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortés García',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -186,11 +279,6 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
