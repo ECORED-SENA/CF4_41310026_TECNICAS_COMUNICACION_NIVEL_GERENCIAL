@@ -7,7 +7,7 @@
         span 1
       h1 La comunicación escrita 
 
-    p(data-aos="fade-right").mb-5 A lo largo del tiempo, el ser humano ha desarrollado diversas técnicas para comunicarse, que han ido evolucionando y perfeccionándose con el uso de nuevas tecnologías. Este avance ha permitido que la información circule de manera más rápida por los sistema1 de comunicación. No obstante, esta inmediatez también presenta riesgos, como ambigüedades, deficiencias en la calidad del mensaje y falta de asertividad en el intercambio de información. 
+    p(data-aos="fade-right").mb-5 A lo largo del tiempo, el ser humano ha desarrollado diversas técnicas para comunicarse, que han ido evolucionando y perfeccionándose con el uso de nuevas tecnologías. Este avance ha permitido que la información circule de manera más rápida por los sistemas de comunicación. No obstante, esta inmediatez también presenta riesgos, como ambigüedades, deficiencias en la calidad del mensaje y falta de asertividad en el intercambio de información. 
 
     .bg-full-width.bg-fondo-2
       .px-4.px-md-5.pb-5
@@ -45,7 +45,7 @@
           span La comunicación  
 
         figure
-          img(src="@/assets/curso/figuras/fig1.png", style="max-width: 100%", alt="Diagrama que presenta los tipos de comunicación, dividiéndolos en dos grandes categorías: verbal y no verbal. La comunicación verbal se subdivide en oral y escrita, mientras que la no verbal se desglosa en imágenes, sonidos y gestos.")
+          img(src="@/assets/curso/figuras/fig1.svg", style="max-width: 100%", alt="Diagrama que presenta los tipos de comunicación, dividiéndolos en dos grandes categorías: verbal y no verbal. La comunicación verbal se subdivide en oral y escrita, mientras que la no verbal se desglosa en imágenes, sonidos y gestos.")
 
 
     .bg-color-ac10.mb-5
@@ -152,7 +152,9 @@
 
                   li.mb-2 Para separar adjetivos de un sujeto, por ejemplo: Clarita es inteligente, atenta y cuidadosa en su trabajo. 
 
-                  li.mb-5 Se separan por comas las oraciones yuxtapuestas de sentido distributivo: Unos trabajan, otros duermen; esa es la situación de este departamento. 
+                  li.mb-2 Se separan por comas las oraciones yuxtapuestas de sentido distributivo: Unos trabajan, otros duermen; esa es la situación de este departamento. 
+
+                  li.mb-5 En oraciones que expresan causalidad, por ejemplo: Está molesto porque no atendieron bien al cliente.
               .col-lg-4
                 img.img-fluid(src="@/assets/curso/tema1/9.png", style="max-width:100%", alt="").mx-auto.mb-4
 

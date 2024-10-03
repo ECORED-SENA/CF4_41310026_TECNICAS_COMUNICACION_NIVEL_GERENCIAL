@@ -53,6 +53,10 @@
                 h5 Asunto 
                 p Resume el tema central del documento. Se escribe con la palabra “Asunto” seguida de dos puntos, sin negrilla ni subrayado. El asunto debe ser claro y conciso para que el lector entienda el propósito de la comunicación. 
 
+              .tarjeta.p-4(titulo="Asunto")
+                h5 Cuerpo o texto 
+                p Redactado de manera clara, breve, directa y cortés. Evitar lenguaje complicado o redundante, manteniendo siempre un tono respetuoso y profesional.
+
               .tarjeta.p-4(titulo="Lugar de origen y fecha")
                 h5 Lugar de origen y fecha 
                 p Incluye el nombre del lugar de origen, seguido del día, mes (en minúsculas) y el año, sin puntos. Esto proporciona contexto sobre la ubicación y temporalidad del documento. 
@@ -74,10 +78,17 @@
       .px-4.px-md-5
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8.col-xl-7(data-aos="zoom-in")
-            img(src="@/assets/curso/tema2/5.png", style="max-width: 100%", alt="")
+            img(src="@/assets/curso/tema2/5.png", style="max-width: 100%", alt="Ejemplo de carta formal con estructura que incluye destinatario, asunto, cuerpo de la solicitud, firma, y copia al destinatario secundario.")
 
-
+      
     .bg-fondo-6.mt-big
+      .row.justify-content-center.mb-4
+          .col-lg-5
+            a.anexo.mb-4(:href="obtenerLink('/downloads/EjemploFormatoCarta.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Descargar ejemplo de formato de carta en PDF
       .row.justify-content-center.align-items-center.mb-5
         .col-10(data-aos="fade-right")
           .bg-color-ac10.mb-5

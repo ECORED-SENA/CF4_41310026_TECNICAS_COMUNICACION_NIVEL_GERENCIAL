@@ -20,7 +20,7 @@
         .titulo-tres.mb-4(data-aos="flip-up").mb-5
           h4 Formatos para la elaboración de documentos escritos
 
-        p(data-aos="fade-up") En general, un informe gerencial se basa en los resultados esperados y no en el procedimiento realizado. Es importante que la información se reciba a tiempo. El informe debe contener puntos clave muy concretos y prácticos, tomando en cuenta al destinatario y su responsabilidad para interactuar con esos datos. A continuación, se detallan los componentes principales de un informe gerencial.
+        p(data-aos="fade-up") En general, un informe gerencial se basa en los resultados esperados y no en el procedimiento realizado. Es importante que la información se reciba a tiempo. El informe debe contener puntos clave, muy concretos y prácticos, tomando en cuenta al destinatario y su responsabilidad para interactuar con esos datos. A continuación, se detallan los componentes principales de un informe gerencial.
 
 
     .bg-full-width.bg-fondo-3(data-aos="fade-down").mb-5
