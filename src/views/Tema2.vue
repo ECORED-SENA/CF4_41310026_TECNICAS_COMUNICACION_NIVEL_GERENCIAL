@@ -53,7 +53,7 @@
                 h5 Asunto 
                 p Resume el tema central del documento. Se escribe con la palabra “Asunto” seguida de dos puntos, sin negrilla ni subrayado. El asunto debe ser claro y conciso para que el lector entienda el propósito de la comunicación. 
 
-              .tarjeta.p-4(titulo="Asunto")
+              .tarjeta.p-4(titulo="Cuerpo o texto")
                 h5 Cuerpo o texto 
                 p Redactado de manera clara, breve, directa y cortés. Evitar lenguaje complicado o redundante, manteniendo siempre un tono respetuoso y profesional.
 
