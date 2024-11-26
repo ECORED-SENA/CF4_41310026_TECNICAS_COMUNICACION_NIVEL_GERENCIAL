@@ -197,7 +197,7 @@
 
                   li.mb-2 Cierra una serie con un concepto general: Comprometidos, respetuosos y tolerantes son los valores corporativos que rigen las relaciones entre los compañeros de trabajo.
 
-                  li.mb-2 Para citar textualmente: El jefe dijo: "Me encargaré personalmente."
+                  li.mb-2 Para citar textualmente: El jefe dijo: "Me encargaré personalmente".
 
                   li.mb-2 En el saludo de cartas y documentos.
 

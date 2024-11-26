@@ -211,8 +211,8 @@
 
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-10.col-xxl-8
-              img(src="@/assets/curso/tema2/9.png", style="max-width: 100%", alt="Diagrama ilustrativo de las diferentes partes que componen una circular").d-none.d-lg-block.m-auto.mb-4
-              img(src="@/assets/curso/tema2/9b.png", style="max-width: 100%", alt="Diagrama ilustrativo de las diferentes partes que componen una circular").d-lg-none.m-auto.mb-4
+              img(src="@/assets/curso/tema2/9.png", style="max-width: 100%", alt="Imagen que presenta las partes de la circular: encabezado, código, lugar de origen y fecha de elaboración, encabezamiento y destinatarios, asunto, saludo, texto, despedida, remitente y líneas especiales.").d-none.d-lg-block.m-auto.mb-4
+              img(src="@/assets/curso/tema2/9b.png", style="max-width: 100%", alt="Imagen que presenta las partes de la circular: encabezado, código, lugar de origen y fecha de elaboración, encabezamiento y destinatarios, asunto, saludo, texto, despedida, remitente y líneas especiales.").d-lg-none.m-auto.mb-4
           
           .title-cuatro.rounded-pill(data-aos="fade-up").mb-4
             h5 El memorando

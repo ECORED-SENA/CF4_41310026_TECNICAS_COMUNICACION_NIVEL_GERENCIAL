@@ -95,7 +95,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/41310026_CF4_DU.pdf',
+        download: 'downloads/41310026_CF4_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -198,32 +198,32 @@ export default {
   referencias: [
     {
       referencia:
-        'Bayer, C. (2014). <em>Comunicación eficaz: Una competencia para lograr el éxito organizacional</em>.',
+        'Bayer, C. (2014). Comunicación eficaz: Una competencia para lograr el éxito organizacional.',
       link: '',
     },
     {
       referencia:
-        'Cestero, A. M. (2004). La comunicación no verbal. En J. Sánchez Lobato & I. Santos Gargallo (Eds.), <em>Vademécum para la formación de profesores</em> (pp. 593-612). Madrid: SGEL.',
+        'Cestero, A. M. (2004). La comunicación no verbal. En J. Sánchez Lobato & I. Santos Gargallo (Eds.), Vademécum para la formación de profesores (pp. 593-612). Madrid: SGEL.',
       link: '',
     },
     {
       referencia:
-        'Cestero, A. M., et al. (1998). <em>Estudios de comunicación no verbal</em>. Madrid: Edinumen.',
+        'Cestero, A. M., et al. (1998). Estudios de comunicación no verbal. Madrid: Edinumen.',
       link: '',
     },
     {
       referencia:
-        'Coll, J., Gelabert, M. J., & Martinell, E. (1990). <em>Diccionario de gestos y sus giros más usuales</em>. Madrid: Edelsa.',
+        'Coll, J., Gelabert, M. J., & Martinell, E. (1990). Diccionario de gestos y sus giros más usuales. Madrid: Edelsa.',
       link: '',
     },
     {
       referencia:
-        'García-Carpintero, M. (1996). <em>Las palabras, las ideas y las cosas: Una presentación de la filosofía del lenguaje</em>. Barcelona: Editorial Ariel.',
+        'García-Carpintero, M. (1996). Las palabras, las ideas y las cosas: Una presentación de la filosofía del lenguaje. Barcelona: Editorial Ariel.',
       link: '',
     },
     {
       referencia:
-        'Tobón, L. (2001). <em>La lingüística del lenguaje: Estudios en torno a los procesos de significar y comunicar</em>. Bogotá: Universidad Pedagógica Nacional.',
+        'Tobón, L. (2001). La lingüística del lenguaje: Estudios en torno a los procesos de significar y comunicar. Bogotá: Universidad Pedagógica Nacional.',
       link: '',
     },
   ],
