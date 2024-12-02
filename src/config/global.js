@@ -118,22 +118,6 @@ export default {
       link: 'https://www.youtube.com/watch?v=92oS2byPp24',
     },
     {
-      tema: 'Características de la comunicación escrita',
-      referencia:
-        'Machado Mateos, A. & Rodríguez Sánchez, O. (2020). <em>Comunicación oral y escrita en la empresa. UF0521:</em> ( ed.). Editorial Tutor Formación.',
-      tipo: 'Leer página 39-50',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/125937',
-    },
-    {
-      tema: 'Sugerencias de gramática y ortografía',
-      referencia:
-        'Moreno Castrillón, F. (2013). <em>Gramática y ortografía al día: guía con las principales novedades de la Real Academia Española:</em> ( ed.). Universidad del Norte.',
-      tipo: 'Libro',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/69894',
-    },
-    {
       tema: 'Protocolo de comunicación en la organización',
       referencia:
         'GCFAprendeLibre. (2022). Cómo escribir un correo laboral | Comunicación empresarial. [Archivo de video] Youtube.',
